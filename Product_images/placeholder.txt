@@ -1,0 +1,5 @@
+In this folder you need to place-
+1. train folder(training images)
+2. test folder(testing images)
+3. train_labels.csv
+4. test_labels.csv
