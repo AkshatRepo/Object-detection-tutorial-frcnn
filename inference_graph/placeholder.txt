@@ -1,0 +1,1 @@
+This file is here just because I needed something to be in the inference_graph folder. This file has no purpose and can be deleted.
